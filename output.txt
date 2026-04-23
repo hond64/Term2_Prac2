@@ -1,0 +1,8 @@
+IN_ORDER:       20 30 40 50 60 70 80
+IN_ORDER:       20 35 40 50 60 65 70 80
+SIZE:           8
+HEIGHT:         3
+KTH_SMALLEST:   60 (k = 5)
+SEARCH 65: true
+SEARCH 100: false
+Input not valid
