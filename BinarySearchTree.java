@@ -1,7 +1,7 @@
-/**
- * Binary Search Tree implementation.
- * Source acknowledgement: Developed with assistance from ChatGPT.
- */
+//Miguel Wentzel
+//4478677
+//Practical 2
+//Question 2
 public class BinarySearchTree {
     private Node root;
     private int size;
