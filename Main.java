@@ -1,11 +1,12 @@
+//Miguel Wentzel
+//4478677
+//Practical 2
+//Question 3
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-/**
- * Application class for processing BST commands from input.txt.
- * Source acknowledgement: Developed with assistance from ChatGPT.
- */
+
 public class Main {
     public static void main(String[] args) {
         BinarySearchTree bst = new BinarySearchTree();
