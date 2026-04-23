@@ -1,7 +1,7 @@
-/**
- * Node class for Binary Search Tree.
- * Source acknowledgement: Developed with assistance from ChatGPT.
- */
+//Miguel Wentzel
+//4478677
+//Practical 2
+//Question 1
 public class Node {
     private int data;
     private Node left;
