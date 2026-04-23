@@ -1,7 +1,7 @@
 //Miguel Wentzel
 //4478677
 //Practical 2
-//Question 2
+//Question 1 + 2
 public class BinarySearchTree {
     private Node root;
     private int size;
